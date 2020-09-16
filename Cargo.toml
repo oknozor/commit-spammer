@@ -6,6 +6,7 @@ edition = "2018"
 readme = "README.md"
 repository = "https://github.com/oknozor/commit-spammer"
 description = "spam your commit history and look smart on twitter"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
