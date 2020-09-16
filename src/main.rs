@@ -6,7 +6,6 @@ use clap::{App, AppSettings};
 use clap::Arg;
 use git::Repository;
 use std::fs::{OpenOptions};
-use std::io::Read;
 
 mod git;
 

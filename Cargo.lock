@@ -69,7 +69,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "commit_spam"
+name = "commit-spam"
 version = "0.1.0"
 dependencies = [
  "anyhow",
